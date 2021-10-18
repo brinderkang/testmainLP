@@ -15,5 +15,9 @@ public class App
     {
     	System.out.println("Test");
     	}
-    
+    public void meth1()
+
+    {
+    	System.out.println("Test");
+    	}
 }
